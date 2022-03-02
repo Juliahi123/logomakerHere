@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FirstDraft"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FirstDraft">
+				<Option output="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/FirstDraft" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 FirstDraft"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FirstDraft/fast">
+				<Option output="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/FirstDraft" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 FirstDraft/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/BackGround.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/BackGround.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Box.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Box.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/ColorPicker.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/ColorPicker.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Cursor.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Cursor.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/FileItem.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/FileItem.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/FileNode.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/FileNode.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/FileTree.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/FileTree.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/FontBox.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/FontBox.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Item.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Item.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/ItemList.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/ItemList.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Label.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Label.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/LinkedList.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/LinkedList.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/LogoScreen.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/LogoScreen.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Menu.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Menu.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/MenuBar.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/MenuBar.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/MouseEvent.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/MouseEvent.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Node.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/SetUpFormate.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/SetUpFormate.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Slider.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Slider.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/SliderMenu.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/SliderMenu.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/State.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/State.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/TextInput.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/TextInput.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Typer.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/Typer.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/asset.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/asset.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/main.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/randomGenerator.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/randomGenerator.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/saveFile.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/saveFile.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/windowOne.cpp">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/windowOne.h">
+			<Option target="FirstDraft"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/../../../../../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/../../../../../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/../../../../../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/../../../../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/../../../../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

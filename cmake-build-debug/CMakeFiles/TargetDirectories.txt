@@ -1,0 +1,3 @@
+/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mengxiang/Desktop/CSclasses/CS08/Project/Final/FirstDraft/cmake-build-debug/CMakeFiles/FirstDraft.dir
